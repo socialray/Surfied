@@ -1,0 +1,1 @@
+6@„R<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":2:{s:7:"version";s:13:"2.0.5 4/17/13";s:7:"message";s:197:"Custom Login - <a href="http://extendd.com/plugin/custom-login-stealth-login/" target="_blank">Stealth Login</a> is now available! Protect your site from brute force attacks starting at just $9.99.";}}

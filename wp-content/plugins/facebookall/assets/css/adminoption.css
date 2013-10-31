@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+.wrapper{
+	width:99%;
+	float:left;
+	margin:0px;
+	padding:0px;
+}
+#fball_box_updated {
+   font-size: 13px;
+   color:#fff;
+    font-weight: bold;
+    text-shadow: none !important;
+	background-color: #33BB55;
+    width:96%;
+}
+.fball_updatemsg_box {
+    border: 1px solid #96A6C5 ;
+	margin-bottom: 10px;
+    padding: 10px 15px;
+}
+.ui-tabs-nav a {
+    color: #AAAAAA;
+}
+.ui-tabs-active a{
+  color:#464646 !important;
+}
+h2.nav-tab-wrapper > ul > li{
+	float:left;
+	margin-left:5px
+}
+li.ui-tabs-active{
+	border-bottom-color: #fff;
+	margin-top: 1px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+}
+#tabs a.tab_anchor{
+    border: none;
+    font-weight: normal;
+    text-decoration: none;
+	color:#fff
+}
+.fballwelcome-panel {
+    background: -moz-linear-gradient(center bottom , #F5F5F5, #FAFAFA) repeat scroll 0 0 #F5F5F5;
+    border-color: #DFDFDF;
+	background: #f5f5f5;
+    background-image: -webkit-gradient(linear,left bottom,left top,from(#f5f5f5),to(#fafafa));
+    background-image: -webkit-linear-gradient(bottom,#f5f5f5,#fafafa);
+    background-image: -moz-linear-gradient(bottom,#f5f5f5,#fafafa);
+    background-image: -o-linear-gradient(bottom,#f5f5f5,#fafafa);
+    background-image: linear-gradient(to top,#f5f5f5,#fafafa);
+}
+.fballwelcome-panel {
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 13px;
+    margin: 20px 0;
+    overflow: auto;
+    padding: 15px 10px 12px;
+    position: relative;
+}
+.fballwelcome-panel-content {
+    margin-left: 13px;
+    max-width: 1500px;
+}
+.fballwelcome-panel .fballwelcome-panel-column-container {
+    clear: both;
+    overflow: hidden;
+    position: relative;
+}
+.fballwelcome-panel .fballwelcome-panel-column:first-child {
+    width: 36%;
+}
+.fballwelcome-panel .fballwelcome-panel-column {
+    float: left;
+    min-width: 200px;
+    width: 32%;
+}
+.fballwelcome-panel h3 {
+    text-shadow: 1px 1px 1px #FFFFFF;
+}
+.fballwelcome-panel h3 {
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",sans-serif;
+    font-size: 21px;
+    font-weight: normal;
+    line-height: 1.2;
+    margin: 0;
+}
+
+
+#apiloading {
+  background-image: url("../img/loading.gif");
+  background-repeat:no-repeat;
+  padding: 0px 2px 0px 30px;
+  color:black;	
+}
+#apierror {
+  background-image: url("../img/error.png");
+  background-repeat:no-repeat;
+  background-position:left; 
+  color:#FF0000; 
+  height:20px; 
+  padding: 4px 2px 2px 20px;
+}
+#apisuccess {
+  background-image: url("../img/ok.png");
+  background-repeat:no-repeat;
+  background-position:left; 
+  color:green; 
+  height:20px; 
+  padding: 4px 2px 2px 20px;
+}
+ .fballrow_fbbutton {
+    float: left;
+    background-color: #5B74A8;
+    background-repeat: no-repeat;
+    background-size: auto auto;
+    border-color: #29447E #29447E #1A356E;
+	cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 13px;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+	-moz-box-shadow:1px 1px 1px 1px #000;
+    -webkit-box-shadow:1px 1px 1px 1px #000;
+    box-shadow:1px 1px 1px 1px #000;
+}
+
+.facebookall_table {
+  background-color: #e7ebf2 ;
+  border: 1px solid #96A6C5 ;
+  margin-bottom: 10px ;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 1.4em;
+  margin-left: 2px;
+  width: 100%;
+}
+.facebookall_table .head {
+  font-weight: bold ;
+  font-size: 13px ;
+  font-weight: bold ;
+  background-color: #3b5998 ;
+  color:#FFFFFF;
+  text-shadow:none!important;
+}
+.facebookall_table th {
+  color: #1D2A5B;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+  width: 200px;
+  font-weight: normal;
+  text-shadow: 0 1px 0 #FFFFFF;
+}
+.facebookall_table td {
+  font-size: 12px;
+  line-height: 20px;
+  margin-bottom: 9px;
+  padding: 8px 10px;
+  color:#1D2A5B;
+}
+.facebookall_table td, textarea {
+  line-height: inherit;
+}
+.facebookall_table td textarea, input, select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  border:1px solid #96A6C5 !important;
+}
+.facebookall_table tr td.fballrow {
+  line-height: 36px ;
+  color: #1D2A5B;
+}
+.facebookall_table .fballrow_white {
+  background-color: #fff;
+}
+.facebookall_table tr.description td {
+  color: #0D5995 ;
+}
+::-webkit-input-placeholder {
+   color: #AAAAAA !important;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #AAAAAA !important;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #AAAAAA !important;  
+}
+
+:-ms-input-placeholder {  
+   color: #AAAAAA !important;  
+}

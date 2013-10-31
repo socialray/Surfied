@@ -1,0 +1,149 @@
+
+.instagram-picture-box
+{
+	margin: 10px;
+	padding: 10px;
+	background: #f5f5f5;
+	background-image: -webkit-gradient(linear,left bottom,left top,from(#f5f5f5),to(#fafafa));
+	background-image: -webkit-linear-gradient(bottom,#f5f5f5,#fafafa);
+	background-image: -moz-linear-gradient(bottom,#f5f5f5,#fafafa);
+	background-image: -o-linear-gradient(bottom,#f5f5f5,#fafafa);
+	background-image: linear-gradient(to top,#f5f5f5,#fafafa);
+	border-color: #dfdfdf;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 3px;
+	font-size: 13px;
+	line-height: 2.1em;
+}
+
+.instagram-picture-alert
+{
+	color: #000000;
+	background-color: #FF5050;
+	border-color: #eed3d7;
+	margin: 10px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	font-size: 13px;
+}
+.instagram-picture-alert a
+{
+	color: #ffffff;
+	font-weight: bold;
+}
+.instagram-picture-alert a:hover
+{
+	text-decoration: none;
+}
+
+
+.instagram-picture-success
+{
+	color: #000000;
+	background-color: #7FFF00;
+	border-color: #eed3d7;
+	margin: 10px;
+	padding: 5px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	font-size: 13px;
+}
+.instagram-picture-success-button
+{
+	display: inline-block;
+	padding: 6px 12px;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.42857;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	border: 1px solid transparent;
+	border-radius: 4px 4px 4px 4px;
+	-moz-user-select: none;
+	color: rgb(255, 255, 255);
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+	text-decoration: none;
+}
+.instagram-picture-success-button:hover
+{
+	color: #ffffff;
+	background-color: #47a447;
+	border-color: #398439;	
+}
+.instagram-picture-danger-button
+{
+	display: inline-block;
+	padding: 6px 12px;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.42857;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	border: 1px solid transparent;
+	border-radius: 4px 4px 4px 4px;
+	-moz-user-select: none;
+	color: rgb(255, 255, 255);
+	background-color: #d9534f;
+	border-color: #d43f3a;
+	text-decoration: none;
+}
+.instagram-picture-danger-button:hover
+{
+	color: #ffffff;
+	background-color: #d2322d;
+	border-color: #ac2925;
+}
+
+.instagram-picture-box-in
+{
+	border:1px groove;
+	padding:10px;
+	text-align:center;
+	border-radius:30px;
+	background-color:#fafafa;
+	margin: 5px;
+}
+
+
+.instagram_clear_admin { clear: both; }
+
+.row-instagram_admin img{max-width:100%;border: 0px;}
+
+.row-instagram_admin{margin:0px;padding:0px;}
+.row-instagram_admin:after{clear:both;}
+.row-instagram_admin:after{clear:both;}
+
+.col-instagram-1_admin{width:8.333333333333332%;float: left;}
+.col-instagram-2_admin{width:16.666666666666664%;float: left;}
+.col-instagram-3_admin{width:25%;float: left;}
+.col-instagram-4_admin{width:33.33333333333333%;float: left;}
+.col-instagram-5_admin{width:41.66666666666667%;float: left;}
+.col-instagram-6_admin{width:50%;float: left;}
+.col-instagram-7_admin{width:58.333333333333336%;float: left;}
+.col-instagram-8_admin{width:66.66666666666666%;float: left;}
+.col-instagram-9_admin{width:75%;float: left;}
+.col-instagram-10_admin{width:83.33333333333334%;float: left;}
+.col-instagram-11_admin{width:91.66666666666666%;float: left;}
+.col-instagram-12_admin{width:100%;float: left;}
+
+.col-instagram-offset-1_admin{margin-left:8.333333333333332%;}
+.col-instagram-offset-2_admin{margin-left:16.666666666666664%;}
+.col-instagram-offset-3_admin{margin-left:25%;}
+.col-instagram-offset-4_admin{margin-left:33.33333333333333%;}
+.col-instagram-offset-5_admin{margin-left:41.66666666666667%;}
+.col-instagram-offset-6_admin{margin-left:50%;}
+.col-instagram-offset-7_admin{margin-left:58.333333333333336%;}
+.col-instagram-offset-8_admin{margin-left:66.66666666666666%;}
+.col-instagram-offset-9_admin{margin-left:75%;}
+.col-instagram-offset-10_admin{margin-left:83.33333333333334%;}
+.col-instagram-offset-11_admin{margin-left:91.66666666666666%;}
+.col-instagram-offset-12_admin{margin-left:100%;}

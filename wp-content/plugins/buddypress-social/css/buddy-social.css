@@ -1,0 +1,31 @@
+.social-buttons {
+background: #fafafa;
+border: 1px solid #ddd;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+display: none;
+margin: 10px 0 15px 0;
+padding: 2px 8px 1px;
+}
+
+.social-buttons a {
+-webkit-transition: color .2s;
+-moz-transition: color .2s;
+-o-transition: color .2s;
+transition: color .2s;
+font-size: 26px !important;
+overflow: hidden;
+line-height: 1.5 !important;
+padding: 0px !important;
+margin-right: 5px;
+text-decoration: none;
+}
+
+.social-buttons a:hover {
+-webkit-transition: color .2s;
+-moz-transition: color .2s;
+-o-transition: color .2s;
+transition: color .2s;
+text-decoration: none;
+}

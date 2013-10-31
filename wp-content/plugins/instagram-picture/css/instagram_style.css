@@ -1,0 +1,97 @@
+.header_instagram{width: 100%; margin:0 auto;float: left;line-height: 0px;}
+.header_instagram:after{clear: both;}
+.header_in_instagram{width:100%;margin: 0 auto;text-align: center;}
+
+.instagram_clear { clear: both; }
+
+.row-instagram img{max-width:100%;border: 0px;}
+
+.row-instagram{margin:0px;padding:0px;}.row-instagram:before,.row-instagram:after{display:block;}
+.row-instagram:after{clear:both;}
+.row-instagram:before,.row-instagram:after{display:block;}
+.row-instagram:after{clear:both;}
+
+.col-instagram-1{width:8.333333333333332%;float: left;text-align: center;}
+.col-instagram-2{width:16.666666666666664%;float: left;text-align: center;}
+.col-instagram-3{width:25%;float: left;text-align: center;}
+.col-instagram-4{width:33.33333333333333%;float: left;text-align: center;}
+.col-instagram-5{width:41.66666666666667%;float: left;text-align: center;}
+.col-instagram-6{width:50%;float: left;text-align: center;}
+.col-instagram-7{width:58.333333333333336%;float: left;text-align: center;}
+.col-instagram-8{width:66.66666666666666%;float: left;text-align: center;}
+.col-instagram-9{width:75%;float: left;text-align: center;}
+.col-instagram-10{width:83.33333333333334%;float: left;text-align: center;}
+.col-instagram-11{width:91.66666666666666%;float: left;text-align: center;}
+.col-instagram-12{width:100%;float: left;text-align: center;}
+
+.instagram-picture-hover img{opacity1;transition: opacity .5s ease-out;-moz-transition: opacity .5s ease-out;-webkit-transition: opacity .5s ease-out;-o-transition: opacity .5s ease-out;}
+.instagram-picture-hover img:hover{opacity: .5;}
+
+
+
+.col-instagram-offset-1{margin-left:8.333333333333332%;}
+.col-instagram-offset-2{margin-left:16.666666666666664%;}
+.col-instagram-offset-3{margin-left:25%;}
+.col-instagram-offset-4{margin-left:33.33333333333333%;}
+.col-instagram-offset-5{margin-left:41.66666666666667%;}
+.col-instagram-offset-6{margin-left:50%;}
+.col-instagram-offset-7{margin-left:58.333333333333336%;}
+.col-instagram-offset-8{margin-left:66.66666666666666%;}
+.col-instagram-offset-9{margin-left:75%;}
+.col-instagram-offset-10{margin-left:83.33333333333334%;}
+.col-instagram-offset-11{margin-left:91.66666666666666%;}
+.col-instagram-offset-12{margin-left:100%;}
+
+
+
+.col-instagram-offset-1-1{margin-left:4.166666666666666%;}
+.col-instagram-offset-2-1{margin-left:8.333333333333332%;}
+.col-instagram-offset-3-1{margin-left:12.5%;}
+.col-instagram-offset-4-1{margin-left:16.666666666666665%;}
+.col-instagram-offset-5-1{margin-left:20.833333333333335%;}
+.col-instagram-offset-6-1{margin-left:25%;}
+.col-instagram-offset-7-1{margin-left:29.166666666666668%;}
+.col-instagram-offset-8-1{margin-left:33.33333333333333%;}
+.col-instagram-offset-9-1{margin-left:37.5%;}
+.col-instagram-offset-10-1{margin-left:41.66666666666667%;}
+.col-instagram-offset-11-1{margin-left:45.83333333333333%;}
+.col-instagram-offset-12-1{margin-left:50%;}
+
+.col-instagram-offset-1-2{margin-left: 2.083333333333333%;}
+
+
+
+.col-instagram-offset-top-1{margin-top:8.333333333333332%;}
+.col-instagram-offset-top-2{margin-top:16.666666666666664%;}
+.col-instagram-offset-top-3{margin-top:25%;}
+.col-instagram-offset-top-4{margin-top:33.33333333333333%;}
+.col-instagram-offset-top-5{margin-top:41.66666666666667% ;}
+.col-instagram-offset-top-6{margin-top:50%;}
+.col-instagram-offset-top-7{margin-top:58.333333333333336%;}
+.col-instagram-offset-top-8{margin-top:66.66666666666666%;}
+.col-instagram-offset-top-9{margin-top:75%;}
+.col-instagram-offset-top-10{margin-top:83.33333333333334%;}
+.col-instagram-offset-top-11{margin-top:91.66666666666666%;}
+.col-instagram-offset-top-12{margin-top:100%;}
+
+.instagram-radius-5{border-radius:5% !important;}
+.instagram-radius-10{border-radius:10% !important;}
+.instagram-radius-15{border-radius:15% !important;}
+.instagram-radius-20{border-radius:20% !important;}
+.instagram-radius-25{border-radius:25% !important;}
+.instagram-radius-30{border-radius:30% !important;}
+.instagram-radius-35{border-radius:35% !important;}
+.instagram-radius-40{border-radius:40% !important;}
+.instagram-radius-45{border-radius:45% !important;}
+.instagram-radius-50{border-radius:50% !important;}
+
+.instagram-radius-5_img img{border-radius:5%;}
+.instagram-radius-10_img img{border-radius:10%;}
+.instagram-radius-15_img img{border-radius:15%;}
+.instagram-radius-20_img img{border-radius:20%;}
+.instagram-radius-25_img img{border-radius:25%;}
+.instagram-radius-30_img img{border-radius:30%;}
+.instagram-radius-35_img img{border-radius:35%;}
+.instagram-radius-40_img img{border-radius:40%;}
+.instagram-radius-45_img img{border-radius:45%;}
+.instagram-radius-50_img img{border-radius:50%;}

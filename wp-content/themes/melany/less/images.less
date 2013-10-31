@@ -1,0 +1,34 @@
+//
+// Images
+// --------------------------------------------------
+
+img {
+	&.media-object {
+		margin-top:0;
+		margin-bottom:0;
+	}
+}
+
+// Captions
+.wp-caption,
+.gallery-caption {
+	.img-thumbnail();
+	display:block;
+
+	> img {
+		.img-responsive();
+	}
+
+	.wp-caption-text {
+		text-align:center;
+		padding:@thumbnail-caption-padding;
+		color:@thumbnail-caption-color;
+	}
+}
+
+// Attachment page
+body.single-attachment {
+	#logo {
+		display:none;
+	}
+}

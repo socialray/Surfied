@@ -1,0 +1,18 @@
+#simpleweather-widget 		{background: #6f9dbe; 
+				background: -webkit-gradient(linear, left top, left bottom, from(#adc7db), to(#6f9dbe));
+				background: -moz-linear-gradient(top, #b2bcc8, #adc7db);
+				width: 185px; padding: 5px 10px; overflow: hidden; border: 1px solid #6591b3;}
+		
+#simpleweather-widget h3 	{color: #000; text-shadow: rgba(250, 250, 250, 0.6) 2px 2px 0;}
+		
+#simpleweather-widget #current_temperature 	{font-size: 25px; margin: 20px 0 0; display: block;}
+		
+#simpleweather-widget #current_weather  	{font-size: 16px; margin: 30px 0 0;}
+		
+#simpleweather-widget a:link, 
+#simpleweather-widget a:active, 
+#simpleweather-widget a:visited {display: block; clear: both; text-decoration: none; color: #222; font-size: 12px;}
+		
+#simpleweather-widget a:hover 	{color: #000; text-decoration: underline;}
+
+#simpleweather-widget img	{width: 125px; float: left;}

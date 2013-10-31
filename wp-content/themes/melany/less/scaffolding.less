@@ -1,0 +1,159 @@
+//
+// Scaffolding
+// --------------------------------------------------
+
+body {
+	padding-top:70px;
+
+	&.header-image {
+		padding-top: 51px;
+	}
+
+	// Fix admin toolbar issue
+	&.admin-bar {
+		.navbar-fixed-top {
+			top:28px;
+		}
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	.word-wrap( break-word );
+	font-weight:300;
+}
+p {
+	.word-wrap( break-word );
+}
+img {
+	// Make all images responsive
+	max-width:100%;
+	height:auto;
+}
+select {
+	// Avoid select elements to breaking the layout
+	max-width:100%;
+
+	option {
+		width:__; // This does not work
+	}
+}
+
+// Force default cursor over input addons
+.input-group-addon {
+	cursor:default;
+}
+
+.updated {
+	display:none;
+}
+
+// Content
+// -------------------------
+
+.entry-content {
+	.clearfix();
+	font-family:'Roboto', @font-family-sans-serif;
+	font-weight:300;
+}
+footer.entry-meta {
+	margin:(@line-height-computed * 2) 0;
+}
+
+// Jumbotron
+.jumbotron {
+	padding:20px 10px;
+	margin-bottom:0;
+	font-size: (@font-size-base * 1.3);
+	line-height: (@line-height-base * 1.3);
+	background-color: @body-bg;
+	text-align:justify;
+
+	&.sticky {
+		background-color: @jumbotron-bg;
+
+		.page-header {
+			border-color:@green-light;
+		}
+	}
+
+  @media (min-width: @screen-md) {
+    padding: 30px 20px;
+		text-align:left;
+		&.sticky {
+			padding:30px 60px;
+		}
+    h1 {
+      font-size: (@font-size-base * 3.5);
+    }
+		.leave-comment {
+			float:right;
+			text-align:right;
+		}
+  }
+}
+
+// Single and Pages
+.page-header {
+	text-align:center;
+	margin-top:0;
+	@media (min-width:@screen-md) {
+		text-align:left;
+	}
+}
+.single {
+	footer.panel {
+		margin-top: @line-height-computed;
+	}
+}
+
+// Pager
+.pager > li {
+	display:block;
+	&.previous {
+		float:left;
+	}
+	&.next {
+		float:right;
+	}
+}
+
+// Pagination
+.paging-navigation {
+	text-align:center;
+}
+
+// Author box
+#author-box.media {
+	background-color:@gray-lighter;
+	padding:@line-height-computed;
+	.border-radius(@border-radius-base);
+
+	.media-body {
+		padding: 0 @line-height-computed;
+		text-align:center;
+		@media (min-width:@screen-md) {
+			text-align:left;
+		}
+	}
+	.media-heading {
+		padding-bottom:(@line-height-computed / 2);
+		margin-bottom:@line-height-computed;
+		border-bottom:1px solid #fff;
+	}
+	.posts-num {
+		margin:1em 1.5em 0;
+	}
+}
+
+// Footer
+// -------------------------
+
+#colophon {
+	margin-top: @line-height-computed;
+	margin-bottom:0;
+	.border-radius(0);
+	border:none;
+	.navbar-text {
+		float:none;
+	}
+}

@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Sophie Knapp | Activity Streams | #surfied @surfclubatuhm</title>
+
+		<link type="text/css" rel="stylesheet" href="http://surfclubatuhm.surfied.com/wp-content/plugins/bepro-listings/css/bepro_listings.css" ><link type="text/css" rel="stylesheet" href="http://surfclubatuhm.surfied.com/wp-content/plugins/bepro-listings/css/jquery-ui-1.8.18.custom.css" ><meta name=\"plugin\" content=\"Bepro Listings plugin\"><link rel="alternate" type="application/rss+xml" title="#surfied @surfclubatuhm &raquo; Feed" href="http://surfclubatuhm.surfied.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="#surfied @surfclubatuhm &raquo; Comments Feed" href="http://surfclubatuhm.surfied.com/comments/feed/" />
+<link rel='stylesheet' id='bpcistyle-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/bp-checkins/css/bpcinstyle.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buddy-social-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-social/css/buddy-social.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buddy-social-socialicons-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-social/css/social_foundicons.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buddy-social-generalicons-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-social/css/general_enclosed_foundicons.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-legacy-css-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.css?ver=1.8.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='events-manager-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.52' type='text/css' media='all' />
+<link rel='stylesheet' id='facebookall-button-style-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/facebookall/assets/css/fball_fbbutton.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='plugin-style-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/rrf-scroll-to-top/css/custom.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bppp-style-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-profile-progression/style.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='shprinkone-theme-css'  href='http://surfclubatuhm.surfied.com/wp-content/themes/shprink-one/css/flaty.bootswatch.min.css?ver=2013-10-08' type='text/css' media='all' />
+<link rel='stylesheet' id='shprinkone-style-css'  href='http://surfclubatuhm.surfied.com/wp-content/themes/shprink-one/style.css?ver=2013-10-08' type='text/css' media='all' />
+<link rel='stylesheet' id='mycred-widget-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/mycred/assets/css/widget.css?ver=1.3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='http://surfclubatuhm.surfied.com/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://surfclubatuhm.surfied.com/wp-includes/js/mediaelement/wp-mediaelement.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rtmedia-main-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/app/assets/css/main.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rtmedia-font-awesome-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/app/assets/css/font-awesome.min.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rtmedia-magnific-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/lib/magnific/magnific.css?ver=3.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://surfclubatuhm.surfied.com/wp-includes/js/thickbox/thickbox.css?ver=20121105' type='text/css' media='all' />
+<link rel='stylesheet' id='file_uploader_style-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus/css/external/fileuploader.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bpfb_interface_style-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus/css/bpfb_interface.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bpfb_toolbar_icons-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus/css/bpfb_toolbar.css?ver=3.6.1' type='text/css' media='all' />
+<script type="text/javascript">var _bpfbRootUrl="http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus";var _bpfbTempImageUrl="http://surfclubatuhm.surfied.com/wp-content/uploads/bpfb/tmp/";var _bpfbBaseImageUrl="http://surfclubatuhm.surfied.com/wp-content/uploads/bpfb/";</script><script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false&#038;ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/bp-checkins/js/gmap3.min.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bp_checkins_vars = {"addCheckinTitle":"Add a check-in!","addMapViewTitle":"View on map","addMapSrcTitle":"Search address","modCheckinTitle":"Edit your position","resetCheckinTitle":"Cancel this check-in","addErrorGeocode":"OOps, we could not geocode your address for this reason","addressPlaceholder":"type your address","html5LocalisationError":"OOps, we could not localized you, you can search for your address in the field that received the focus."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/bp-checkins/js/bp-checkins.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/plupload/plupload.js?ver=1.5.7'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/plupload/plupload.html5.js?ver=1.5.7'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/plupload/plupload.flash.js?ver=1.5.7'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/plupload/plupload.silverlight.js?ver=1.5.7'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/plupload/plupload.html4.js?ver=1.5.7'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-social/js/buddy-social.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejected","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","show_all":"Show all","comments":"comments","close":"Close","view":"View","mark_as_fav":"Favorite","remove_fav":"Remove Favorite","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/surfclubatuhm.surfied.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/surfclubatuhm.surfied.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/surfclubatuhm.surfied.com\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/surfclubatuhm.surfied.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.52'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/themes/shprink-one/js/bootstrap.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/themes/shprink-one/js/jquery.infinitescroll.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/themes/shprink-one/js/jquery.sidr.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.13.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/mediaelement/wp-mediaelement.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/lib/foundation/foundation.min.js?ver=3.2.5'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/lib/foundation/foundation.reveal.js?ver=3.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rtmedia_ajax_url = "http:\/\/surfclubatuhm.surfied.com\/wp-admin\/admin-ajax.php";
+var rtmedia_media_slug = "media";
+var rtmedia_lightbox_enabled = "0";
+var rtmedia_empty_activity_msg = "Please enter some content to post.";
+var rtmedia_empty_comment_msg = "Empty Comment is not allowed.";
+var rtmedia_media_delete_confirmation = "Are you sure you want to delete this media?";
+var rtmedia_album_delete_confirmation = "Are you sure you want to delete this Album?";
+var rtmedia_drop_media_msg = "Drop files here";
+var rtmedia_album_created_msg = " album created successfully.";
+var rtmedia_something_wrong_msg = "Something went wrong. Please try again.";
+var rtmedia_empty_album_name_msg = "Enter an album name.";
+var rtmedia_max_file_msg = "Max file size is";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/app/assets/js/rtMedia.js?ver=3.2.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rtmedia_load_more = "Loading media";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/lib/magnific/magnific.js?ver=3.2.5'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery.query.js?ver=2.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxizeParams = {"_wpnonce":"56aed4794b","is_404":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/ajaxize/ajaxize_this.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/wp-simpleweather/jquery.simpleWeather.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus/js/external/fileuploader.js?ver=3.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var l10nBpfb = {"add_photos":"Add photos","add_remote_image":"Add image URL","add_another_remote_image":"Add another image URL","add_videos":"Add videos","add_video":"Add video","add_links":"Add links","add_link":"Add link","add":"Add","cancel":"Cancel","preview":"Preview","drop_files":"Drop files here to upload","upload_file":"Upload a file","choose_thumbnail":"Choose thumbnail","no_thumbnail":"No thumbnail","paste_video_url":"Paste video URL here","paste_link_url":"Paste link here","images_limit_exceeded":"You tried to add too many images, only 5 will be posted.","_max_images":"5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus/js/bpfb_interface.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://surfclubatuhm.surfied.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://surfclubatuhm.surfied.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+<style type="text/css">
+        .social-buttons a {
+            color: #18bc9c;
+        }
+        .social-buttons a:hover {
+            color: #2c3e50;
+        }
+        </style>
+	<script type="text/javascript">var ajaxurl = 'http://surfclubatuhm.surfied.com/wp-admin/admin-ajax.php';</script>
+
+<script type="text/javascript">var _bpfbRootUrl="http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-activity-plus";var _bpfbTempImageUrl="http://surfclubatuhm.surfied.com/wp-content/uploads/bpfb/tmp/";var _bpfbBaseImageUrl="http://surfclubatuhm.surfied.com/wp-content/uploads/bpfb/";</script><script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/facebookall/assets/js/fball_connect.js?ver=1.0.0'></script>
+<link rel="stylesheet" id="instagram"  href="http://surfclubatuhm.surfied.com/wp-content/plugins/instagram-picture/css/instagram_style.css" type="text/css" media="all" /><script type="text/javascript">var ajaxurl = "http://surfclubatuhm.surfied.com/wp-admin/admin-ajax.php";</script><link rel="stylesheet" href="http://surfclubatuhm.surfied.com/wp-content/plugins/wp-simpleweather/wp-simpleweather-plain.css" type="text/css" /><script type='text/javascript'>
+		jQuery(function() 
+			{
+				jQuery.simpleWeather(
+				{
+				location: '96816', unit: 'f',
+				success: function(weather)
+				{
+				jQuery("#simpleweather-widget").append('<img src=\'http://surfclubatuhm.surfied.com/wp-content/plugins/wp-simpleweather/images/sketchy-weather/'+weather.image+'\' id=\'current_weather_image\'&#47;>');jQuery("#simpleweather-widget").append('<span id=\'current_temperature\'>'+weather.temp+'&deg; '+weather.units.temp+'</span>');jQuery("#simpleweather-widget").append('<span id=\'current_weather\'>'+weather.currently+'</span>');jQuery("#simpleweather-widget").append('<p id=\'wind_direction\'><strong>Wind</strong>: '+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+'</p>');
+				},
+		error: function(error) 
+		{
+			jQuery("#simpleweather-widget").html('<p>'+error+'</p>');
+		}
+	});
+});
+				
+		</script>
+<!--Plugin ToolBar Removal 2013.0624.0361 Active - Tag: 74be16979710d4c4e7c6647856088456-->
+
+<!--This Site is Optimized to Speedup DashBoard and Minimize Memory Load Consumption with Disabled ToolBar-->
+
+        <style>
+            .rtmedia-activity-container .rtmedia-list .rtmedia-item-thumbnail,.bp_media_content img{
+                max-width: 320px;
+                max-height: 240px;
+            }
+            .rtmedia-container ul.rtmedia-list li.rtmedia-list-item div.rtmedia-item-thumbnail {
+                width: 150px;
+                height: 150px;
+                line-height: 150px;
+            }
+            .rtmedia-container ul.rtmedia-list li.rtmedia-list-item div.rtmedia-item-thumbnail img {
+                max-width: 150px;
+                max-height: 150px;
+            }
+            .rtmedia-container .rtmedia-list  .rtmedia-list-item {
+                width: 170px;
+                height: 170px;
+            }
+        </style>
+        
+	<link rel="alternate" type="application/rss+xml" title="#surfied @surfclubatuhm | Site Wide Activity RSS Feed" href="http://surfclubatuhm.surfied.com/activity/feed/" />
+
+
+	<link rel="alternate" type="application/rss+xml" title="#surfied @surfclubatuhm | Sophie Knapp | Activity RSS Feed" href="" />
+
+
+		<script type="text/javascript" charset="utf-8">
+			/* <![CDATA[ */
+			var ajaxurl = 'http://surfclubatuhm.surfied.com/wp-admin/admin-ajax.php';
+			/* ]]> */
+		</script>
+
+	<link rel='canonical' href='http://surfclubatuhm.surfied.com/members/sophie-knapp/activity/following/' />
+
+	<script type="text/javascript">
+		jQuery( document ).ready( function() {
+			jQuery( 'a.confirm').click( function() {
+				if ( confirm( 'Are you sure?' ) )
+					return true; else return false;
+			});
+		});
+	</script>
+
+		<script type="text/javascript">
+			var $ = jQuery;
+		</script>
+	</head>
+	<body class="activity bp-user my-activity following buddypress theme-flaty bp-wall no-js" data-spy="scroll" data-target=".navbar">
+		<header id="header">
+			<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="http://surfclubatuhm.surfied.com/"><i
+								class="icon-home icon-white"> </i> #surfied @surfclubatuhm						</a>
+					</div>
+					<div class="collapse navbar-collapse navbar-ex1-collapse">
+						<ul id="menu-menu" class="nav navbar-nav"><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a tabindex="-1"  href="http://surfclubatuhm.surfied.com/activity/">Newsfeed</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a tabindex="-1"  href="http://surfclubatuhm.surfied.com/checkins/">Checkins</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5 current_page_item active menu-item-15"><a tabindex="-1"  href="http://surfclubatuhm.surfied.com/members/">Members</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a tabindex="-1"  href="http://surfclubatuhm.surfied.com/events/">Events</a></li>
+</ul>
+						<ul class="nav navbar-nav navbar-right">
+							<li><form class="navbar-search navbar-form" method="get"
+	action="http://surfclubatuhm.surfied.com/">
+	<input type="text" class="form-control" placeholder="Search" name="s"/>
+</form>
+</li>
+							<li>
+								<a href="http://surfclubatuhm.surfied.com/?feed=rss2"
+								   title="Subscribe to the RSS feed">
+									<i class="icon-rss"> </i>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</header><div class="container">
+		<!-- container start -->
+	<div id="content">
+		<div class="row">
+			<div id="sidebar" class="col-sm-3 col-md-3 col-lg-3"><div class="sidebar-inner">
+<!-- TOP AREA -->
+<div id="wp-simpleweather" class="widget WPSimpleWeather_Widget"><h4 class="widget-title"></h4><div id="simpleweather-widget"></div></div>
+<!-- MIDDLE AREA -->
+<!-- BOTTOM AREA -->
+</div></div>			<div class="col-sm-9 col-md-9 col-lg-9">
+										<div id="page-0" class="panel panel-default">
+							<div class="panel-body">
+																<div class="page-header">
+									<h1 id="page-title" class="post-title">
+										<a href="http://surfclubatuhm.surfied.com/members/sophie-knapp/">Sophie Knapp</a>									</h1>
+								</div>
+								<div id="buddypress">
+
+	
+	<div id="item-header" role="complementary">
+
+		
+
+<div id="item-header-avatar">
+	<a href="http://surfclubatuhm.surfied.com/members/sophie-knapp/">
+
+		<img data-facebookall="bp-d1" src="https://graph.facebook.com/700406886/picture" alt="Profile picture of Sophie Knapp" class="avatar avatar-facebookall" />
+	</a>
+</div><!-- #item-header-avatar -->
+
+<div id="item-header-content">
+
+			<h2 class="user-nicename">@sophie-knapp</h2>
+	
+	<span class="activity">active 37 minutes ago</span>
+
+	<div id="mycred-my-balance">Points: 6</div>
+	<div id="item-meta">
+
+		
+			<div id="latest-update">
+
+				
+			</div>
+
+		
+		<div id="item-buttons">
+
+			
+		</div><!-- #item-buttons -->
+
+		
+	</div><!-- #item-meta -->
+
+</div><!-- #item-header-content -->
+
+
+
+	</div><!-- #item-header -->
+
+	<div id="item-nav">
+		<div class="item-list-tabs no-ajax" id="object-nav" role="navigation">
+			<ul>
+
+				<li id="activity-personal-li"  class="current selected"><a id="user-activity" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/activity/">Timeline</a></li><li id="xprofile-personal-li" ><a id="user-xprofile" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/profile/">Profile</a></li><li id="friends-personal-li" ><a id="user-friends" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/friends/">Friends <span>1</span></a></li><li id="members-following-personal-li" ><a id="user-members-following" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/following/">Following <span>0</span></a></li><li id="members-followers-personal-li" ><a id="user-members-followers" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/followers/">Followers <span>0</span></a></li><li id="checkins-personal-li" ><a id="user-checkins" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/checkins/">Checkins</a></li><li id="events-personal-li" ><a id="user-events" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/events/">Events</a></li><li id="mycred-history-personal-li" ><a id="user-mycred-history" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/mycred-history/">Sophie's Points</a></li><li id="Listings-personal-li" ><a id="user-Listings" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/Listings/">Listings <span>0</span></a></li><li id="media-personal-li" ><a id="user-media" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/media/">Media<span>0</span></a></li>
+				
+			</ul>
+		</div>
+	</div><!-- #item-nav -->
+
+	<div id="item-body" role="main">
+
+		
+<div class="item-list-tabs no-ajax" id="subnav" role="navigation">
+	<ul>
+
+		<li id="just-me-personal-li" ><a id="just-me" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/activity/">More</a></li><li id="favorites-personal-li" ><a id="favorites" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/activity/favorites/">Likes</a></li><li id="activity-following-personal-li"  class="current selected"><a id="activity-following" href="http://surfclubatuhm.surfied.com/members/sophie-knapp/activity/following/">Following</a></li>		<!--
+		<li id="activity-filter-select" class="last">
+			<label for="activity-filter-by">Show:</label>
+			<select id="activity-filter-by">
+				<option value="-1">Everything</option>
+				<option value="activity_update">Updates</option>
+
+				
+						<option value="new_blog_post">Posts</option>
+						<option value="new_blog_comment">Comments</option>
+
+					
+						<option value="friendship_accepted,friendship_created">Friendships</option>
+
+						<option value="activity_checkin">Activity checkins</option>
+	<option value="place_checkin">Place checkins</option>
+		<option value="new_place">All places</option>
+	<option value="place_comment">Place comments</option>
+	
+			</select>
+
+		</li>
+		-->
+	</ul>
+</div><!-- .item-list-tabs -->
+
+
+
+<div class="activity" role="main">
+
+	
+
+	<div id="message" class="info">
+		<p>Sorry, there was no activity found. Please try a different filter.</p>
+	</div>
+
+
+
+<form action="" name="activity-loop-form" id="activity-loop-form" method="post">
+
+	<input type="hidden" id="_wpnonce_activity_filter" name="_wpnonce_activity_filter" value="75f9830a01" /><input type="hidden" name="_wp_http_referer" value="/members/sophie-knapp/activity/following/" />
+</form>
+</div><!-- .activity -->
+
+
+
+	</div><!-- #item-body -->
+
+	
+</div><!-- #buddypress --><div id="em-wrapper"></div>																							</div>
+						</div>
+								</div>
+					</div>
+	</div>
+			<div id="meta-2" class="widget widget_meta"><h4 class="widget-title">\m/ </h4>			<ul>
+			<li><a href="http://surfclubatuhm.surfied.com/login/?action=register">Register</a></li>			<li><a href="http://surfclubatuhm.surfied.com/login/">Log in</a></li>
+						</ul>
+</div>
+<div id="bp_core_recently_active_widget-4" class="widget widget_bp_core_recently_active_widget buddypress widget"><h4 class="widget-title">Last online</h4>
+					<div class="avatar-block">
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/sophie-knapp/" title="Sophie Knapp"><img data-facebookall="bp-d1" src="https://graph.facebook.com/700406886/picture" alt="Profile picture of Sophie Knapp" class="avatar avatar-facebookall" /></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/admin/" title="Admin"><img data-facebookall="bp-d1" src="https://graph.facebook.com/1621754239/picture" alt="Profile picture of Admin" class="avatar avatar-facebookall" /></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/surfclubatuhm/" title="Surf Club at UHM"><img src="http://surfclubatuhm.surfied.com/wp-content/uploads/avatars/2/8ffd0883d89dbd1ee8b19660e733ed8a-bpthumb.jpg" class="avatar user-2-avatar avatar- photo" width="50" height="50" alt="Profile picture of Surf Club at UHM" /></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/harrison-schmitt/" title="Harrison Schmitt"><img data-facebookall="bp-d1" src="https://graph.facebook.com/1372803909/picture" alt="Profile picture of Harrison Schmitt" class="avatar avatar-facebookall" /></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/antonio-esquivia/" title="Antonio Esquivia"><img data-facebookall="bp-d1" src="https://graph.facebook.com/100005646969071/picture" alt="Profile picture of Antonio Esquivia" class="avatar avatar-facebookall" /></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/joe-bretzke/" title="Joe Bretzke"><img data-facebookall="bp-d1" src="https://graph.facebook.com/3407923/picture" alt="Profile picture of Joe Bretzke" class="avatar avatar-facebookall" /></a>
+					</div>
+									<div class="item-avatar">
+						<a href="http://surfclubatuhm.surfied.com/members/chris-giacobone/" title="Chris Giacobone"><img data-facebookall="bp-d1" src="https://graph.facebook.com/1247740749/picture" alt="Profile picture of Chris Giacobone" class="avatar avatar-facebookall" /></a>
+					</div>
+							</div>
+		
+		</div>
+	<div id="instagram_picture-2" class="widget widget_instagram_picture"><h4 class="widget-title">Follow @surfclubatuhm on Instagram</h4><!-- Instagram Picture -->
+<!-- http://wordpress.org/plugins/instagram-picture/ -->
+<div class="header_instagram">	<div class="header_in_instagram"><div class="row-instagram">	<div class="col-instagram-12"><div class="col-instagram-2"><div class="instagram-picture-hover"><a href="http://instagram.com/p/f1gitbju1y/" target="_blank"><img src="http://distilleryimage10.s3.amazonaws.com/5c7fd1c03c6111e381e222000a9e0818_6.jpg" /></a></div></div><div class="col-instagram-2"><div class="instagram-picture-hover"><a href="http://instagram.com/p/f1f3EUDu1B/" target="_blank"><img src="http://distilleryimage9.s3.amazonaws.com/876624263c6011e38ff222000a1fb6c5_6.jpg" /></a></div></div><div class="col-instagram-2"><div class="instagram-picture-hover"><a href="http://instagram.com/p/f1foxiDu06/" target="_blank"><img src="http://distilleryimage10.s3.amazonaws.com/419be0703c6011e3b97522000a1f97e9_6.jpg" /></a></div></div><div class="col-instagram-2"><div class="instagram-picture-hover"><a href="http://instagram.com/p/f1B_xTDu7K/" target="_blank"><img src="http://distilleryimage10.s3.amazonaws.com/12e54b823c3c11e3880922000ae8030e_6.jpg" /></a></div></div><div class="col-instagram-2"><div class="instagram-picture-hover"><a href="http://instagram.com/p/fvirM7Du7g/" target="_blank"><img src="http://distilleryimage0.s3.amazonaws.com/36f53c5c3a8f11e3952122000a1fbf2e_6.jpg" /></a></div></div><div class="col-instagram-2"><div class="instagram-picture-hover"><a href="http://instagram.com/p/fjLJrIju-g/" target="_blank"><img src="http://distilleryimage0.s3.amazonaws.com/ffbdcb9c36c811e39a0d22000a9f1320_6.jpg" /></a></div></div>	</div>	</div>	</div></div><div class="instagram_clear"></div><!-- Instagram Picture END -->
+</div>
+
+
+	</div>
+<!-- container end -->
+
+
+<script type="text/javascript" src="http://surfclubatuhm.surfied.com/wp-content/plugins/home/content/48/11959048/html/surfclubatuhm/wp-content/plugins/bepro-listings/bepro_listings_functions.php/js/bepro_listings.js"></script><script type="text/javascript" src="http://surfclubatuhm.surfied.com/wp-content/plugins/bepro-listings/js/markerclusterer.js"></script><script type="text/javascript" src="http://surfclubatuhm.surfied.com/wp-content/plugins/bepro-listings/js/jquery.validate.min.js"></script><script type="text/javascript" src="http://surfclubatuhm.surfied.com/wp-content/plugins/bepro-listings/js/jquery.maskedinput-1.3.min.js"></script>
+		<script type="text/javascript">
+            jQuery(document).ready(function(){
+				jQuery("#min_date").datepicker();
+				jQuery("#max_date").datepicker();
+			});
+			jQuery(".delete_link").click(function(element){
+				element.preventDefault();
+				tr_element = jQuery(this).parent().parent();
+				
+				file = jQuery(this)[0].id;
+				file = file.split("::");
+				check = confirm("are you sure you want to delete " +file[2]+ "?");
+				if(check){
+					jQuery.post(ajaxurl, { "action":"bepro_ajax_delete_post", post_id:file[1] }, function(i, message) {
+					   var obj = jQuery.parseJSON(i);
+					   alert(obj["status"]);
+					   if(obj["status"] == "Deleted Successfully!")
+					   tr_element.css("display","none");
+					});
+				}
+			});
+		</script>
+<!-- Generated in 4.612 seconds. (109 q) -->
+
+	
+<!--Plugin ToolBar Removal 2013.0624.0361 Active - Tag: 74be16979710d4c4e7c6647856088456-->
+
+<!--This Site is Optimized to Speedup DashBoard and Minimize Memory Load Consumption with Disabled ToolBar-->
+
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/rrf-scroll-to-top/js/jquery.scrollUp.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/rrf-scroll-to-top/js/active.js?ver=1.0'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/underscore.min.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/backbone.min.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var template_url = "http:\/\/surfclubatuhm.surfied.com\/wp-content\/plugins\/buddypress-media\/templates\/media\/media-gallery-item.php";
+var rtMedia_plupload_config = {"url":"\/members\/sophie-knapp\/activity\/following\/upload\/","runtimes":"html5,silverlight,flash,html4","browse_button":"rtMedia-upload-button","container":"rtmedia-upload-container","drop_element":"drag-drop-area","filters":[{"title":"Media Files","extensions":"jpg,jpeg,png,gif,mp4,mp3"}],"max_file_size":"32M","multipart":"1","urlstream_upload":"1","flash_swf_url":"http:\/\/surfclubatuhm.surfied.com\/wp-includes\/js\/plupload\/plupload.flash.swf","silverlight_xap_url":"http:\/\/surfclubatuhm.surfied.com\/wp-includes\/js\/plupload\/plupload.silverlight.xap","file_data_name":"rtmedia_file","multi_selection":"1","multipart_params":{"redirect":"no","action":"wp_handle_upload","_wp_http_referer":"\/members\/sophie-knapp\/activity\/following\/","mode":"file_upload","rtmedia_upload_nonce":"20bf8184b7"}};
+var rMedia_loading_file = "http:\/\/surfclubatuhm.surfied.com\/wp-admin\/images\/loading.gif";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/buddypress-media/app/assets/js/rtMedia.backbone.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201344'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=2.1.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myCREDvideo = {"ajaxurl":"http:\/\/surfclubatuhm.surfied.com\/wp-admin\/admin-ajax.php","token":"edf4d90877","interval":"0","logic":"play","amount":"1","user_id":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/mycred/assets/js/video.js?ver=1.3.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/surfclubatuhm.surfied.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif","closeImage":"http:\/\/surfclubatuhm.surfied.com\/wp-includes\/js\/thickbox\/tb-close.png"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		// Add Bootstrap class to lists within the sidebar
+		$('#sidebar .widget ul').addClass('nav nav-pills nav-stacked');
+		$('footer .widget ul').addClass('nav nav-pills nav-stacked');
+		$('.widget_recent_comments ul').removeClass('nav nav-tabs nav-pills nav-stacked').addClass('list-unstyled');
+		$('[data-toggle=tooltip]').tooltip()
+		$('#header ul.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
+			// Avoid following the href location when clicking
+			event.preventDefault();
+			// Avoid having the menu to close when clicking
+			event.stopPropagation();
+			// If a menu is already open we close it
+			$('#header ul.dropdown-menu [data-toggle=dropdown]').parent().removeClass('open');
+			// opening the one you clicked on
+			$(this).parent().addClass('open');
+		});
+	});
+</script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 1371/1542 objects using disk
+
+ Served from: surfclubatuhm.surfied.com @ 2013-10-30 10:56:15 by W3 Total Cache -->

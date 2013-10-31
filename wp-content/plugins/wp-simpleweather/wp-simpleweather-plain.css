@@ -1,0 +1,36 @@
+#simpleweather-widget 				{width: 200px; padding: 0px 0px; overflow: hidden; margin: 0;}
+		
+#simpleweather-widget #current_temperature 	{font-size: 25px; margin: 20px 0 0; display: block;}
+		
+#simpleweather-widget #current_weather  	{font-size: 14px; margin: 30px 0 0;}
+		
+#simpleweather-widget a:link, 
+#simpleweather-widget a:active, 
+#simpleweather-widget a:visited 		{display: block; clear: both; text-decoration: none; font-size: 12px;}
+		
+#simpleweather-widget a:hover 			{text-decoration: underline;}
+
+#simpleweather-widget img			{height: 90px; float: left; clear: both;}
+#simpleweather-widget p                         {margin-bottom: 5px; font-size: 14px;}
+#simpleweather-widget #wind_direction           {display: block; clear: both;}
+#simpleweather-widget #wind_chill		{display: block; clear: both;}
+#simpleweather-widget #weather_pressure		{display: block; clear: both;}
+#simpleweather-widget #weather_humidity		{display: block; clear: both;}
+#simpleweather-widget #weather_visibility	{display: block; clear: both;}
+#simpleweather-widget #weather_sunrise		{display: block; clear: both;}
+#simpleweather-widget #weather_sunset		{display: block; clear: both;}
+#simpleweather-widget #high_temperature		{float: left; margin-bottom: 5px; margin-right: 15px; font-size: 14px;}
+#simpleweather-widget #low_temperature		{float: left; margin-bottom: 5px; font-size: 14px;}
+#simpleweather-widget #weather_forecast		{display: block; clear: both;}
+#simpleweather-widget #tomorrow_date		{text-align: center; font-size: 16px;}
+#simpleweather-widget #tomorrow_forecast_header		{display: block; clear: both; text-decoration: underline;}
+#simpleweather-widget #tomorrow_forecast_title          {float: left;}
+#simpleweather-widget #tomorrow_high_temperature	{float: left; margin-bottom: 5px; margin-right: 15px; font-size: 14px;}
+#simpleweather-widget #tomorrow_low_temperature		{float: left; margin-bottom: 5px; font-size: 14px;}
+#simpleweather-widget #tomorrow_weather_forecast_box	{padding-top: 30px;}
+#simpleweather-widget #tomorrow_weather_forecast        {font-size: 14px;}
+#simpleweather-widget #last_updated		{display: block; clear: both; font-size: 10px;}
+
+
+
+

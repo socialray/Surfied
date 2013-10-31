@@ -1,0 +1,1 @@
+<div id="simpleweather-widget"></div>

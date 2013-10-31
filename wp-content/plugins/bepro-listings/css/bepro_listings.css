@@ -1,0 +1,335 @@
+/*
+	This file is part of BePro Listings.
+
+    BePro Listings is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    BePro Listings is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with BePro Listings.  If not, see <http://www.gnu.org/licenses/>.
+*/	
+/* bepro listings map */
+#secondary #map{
+	height: 250px;
+	width: 250px;
+	display: block;
+	margin: auto;
+}
+.result_map_1{
+	height: 120px;
+	width: 25%;
+	display: block;
+	margin: auto;
+}
+.result_map_2{
+	height: 250px;
+	width: 50%;
+	display: block;
+	margin: auto;
+}
+.result_map_3{
+	height: 350px;
+	width: 75%;
+	display: block;
+	margin: auto;
+}
+.result_map_4{
+	height: 500px;
+	width: 100%;
+	display: block;
+	margin: auto;
+}
+
+/* listing layout */
+.bepro_listing_desc{
+	float:left;
+	display:block;
+	clear:left;
+	white-space: pre-line;
+}
+.bepro_listing_info div{
+    margin: 5px 0;
+    padding: 0 5px;
+}
+.bepro_listing_info{
+	display: block;
+    float: right;
+    padding: 0 15px;
+    width: 40%;
+}
+.item_cost{
+	width:100%;
+	display:block;
+	clear:both;
+}
+.bepro_address_info{
+	width:100%;
+	display:block;
+	clear:both;
+}
+.item_contactinfo{
+	width:100%;
+	display:block;
+	clear:both;
+}
+.bepro_listing_gallery{
+	display: block;
+    float: left;
+}
+
+
+/* Cat Listing layout */
+
+.cat_list_item{
+	float:left;
+	width:200px;
+	margin-left: 10px;
+}
+.cat_list_item div{
+	float:left;
+	width:200px;
+	clear:both;
+}
+.cat_list_item img{
+	float:left;
+	width:200px;
+	height: 175px;
+	clear:both;
+}
+
+/* form layout */
+.form_label{
+	width:90px; 
+	margin-right:10px;
+	display:block;
+}
+.bepro_form_section{
+	border-bottom: 1px dashed;
+    margin: 5px 0;
+    padding: 10px;
+    width: 70%;
+}
+.bepro_form_cat{
+	margin:5px 0;
+	float:left;
+}
+.label_sep{	
+    clear: both;
+    display: block;
+    font-weight: bold;
+    margin: 5px 0;
+    text-align: center;
+}
+.error{
+	display:block;
+}
+.add_listing_form_info #content{
+	width:100%;
+	margin:0;
+}
+/* Shortened listing results */
+.shortcode_results{
+	width: 170px;
+	float: left;
+}
+.shortcode_results table{
+	margin:0;
+}
+.shortcode_results .result_img img{
+	width:150px;
+	margin:auto;
+	display: block;
+}
+
+.shortcode_results .result_content .result_title{
+	display: block;
+    margin: 5px 0;
+}
+
+.shortcode_results .result_content .result_desc{
+	margin:0 0 5px 0;
+	display:block;
+}
+
+.shortcode_results .result_do{
+	clear:both;
+}
+
+/* Category listings results */
+
+#listings_area h3{
+	font-size: 22px;
+	text-decoration: underline;
+}
+#listings_area .cat_lists{
+	margin:10px 0;
+	float: left;
+}
+
+/* normal listings results */
+
+.results{
+	width:99%;
+	float: left;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.results .result_top .result_bar{
+	border-left: 1px solid #ffffff;
+}
+.results .result_top table{
+	width:100%;
+	margin: 0;
+}
+.results .result_top table tr td:first-child{
+	width:75%;
+}
+.results .result_top .result_name{
+	float: left;
+}
+.results .result_top .result_location{
+	float: right;
+	width:218px;
+}
+.results .result_img img{
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+	width: 25%;
+}
+.results .result_previews {
+	float:left;
+	margin:3px 0 0 0;
+	width: 44px;
+}
+.results .result_previews img{
+	clear: both;
+    float: left;
+    height: 43px;
+    margin-top: 2px;
+    overflow: hidden;
+    width: 44px;
+}
+.results .result_content{
+	width: 73%;
+	float: left;
+	margin:0 4px;
+}
+.results .result_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: black;
+	float: left;
+	width: 100%;
+	padding-right: 5px;
+	padding-left: 5px;
+	text-align: left;
+	margin-top: 5px;
+}
+.results .result_desc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	height: 115px;
+	margin-top: 5px;
+	margin-bottom: 7px;
+	float: left;
+	overflow: hidden;
+	width: 100%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+	white-space: pre-line;
+}
+
+
+.results .booking_link {
+	width: 132px;
+	float: right;
+	overflow: hidden;
+	background: url(images/bookonline_button.png) no-repeat 0 0;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	height: 30px;
+	padding: 6px 11px 0;
+	clear: both;
+	margin-right:5px;
+}	
+.result_button a{
+	text-decoration:none;
+}
+.result_button a:hover {
+	text-decoration:underline;
+}
+.results .listwebsite {
+	width: 115px;
+	float: right;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	text-align: right;
+	background-position: right top;
+	font-weight: bold;
+	color: white;
+	height: 24px;
+	padding-right: 40px;
+	padding-top: 4px;
+	clear: none;
+	margin-right: 5px;
+}
+.results .result_type a{
+	color:#ffffff;
+}
+.results .result_type{
+	display: block;
+	float: right;
+	padding-left: 10px;
+}
+.results .result_do {
+	float: left;
+	width: 73%;
+}
+.results .result_do .result_rating {
+float: left;
+}
+.results .result_do .rating{
+	float: left;
+}
+.results .result_do .result_button{
+	background-repeat: repeat-x;
+	background-color: #EBEBEB;
+	color: #DA0505;
+	float: right;
+	font-weight: bold;
+	height: 24px;
+	margin-right: 5px;
+	overflow: hidden;
+	text-align: center;
+	width: 86px;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+
+/* Paging */
+.paging a{
+	background-color: #F5F5F5;
+    border: 1px dashed #000000;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    padding: 2px 4px;
+	margin: 2px 5px;
+}
+
+/*footer */
+#bepro_lisings_footer{
+	text-align: center;
+}

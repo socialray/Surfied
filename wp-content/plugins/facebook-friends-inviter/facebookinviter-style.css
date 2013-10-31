@@ -1,0 +1,21 @@
+.fiblink {
+  display:inline-block;
+  line-height: 30px;
+  padding-left: 30px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #3b5998!important;
+  text-decoration: none;
+}
+
+.fiblinkimage {
+  display:inline-block;
+}
+
+.fiblink:hover {
+  text-decoration: underline;
+}
+
+#fib-container {
+   display:block;
+}

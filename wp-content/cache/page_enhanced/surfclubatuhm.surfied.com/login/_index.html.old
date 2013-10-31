@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+	<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>#surfied @surfclubatuhm &rsaquo; Log In</title>
+	<link rel='stylesheet' id='wp-admin-css'  href='http://surfclubatuhm.surfied.com/wp-admin/css/wp-admin.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://surfclubatuhm.surfied.com/wp-includes/css/buttons.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='colors-fresh-css'  href='http://surfclubatuhm.surfied.com/wp-admin/css/colors-fresh.min.css?ver=3.6.1' type='text/css' media='all' />
+<style type="text/css">
+
+/**
+ * Custom Login by Austin Passy
+ *
+ * Plugin URI	: http://austinpassy.com/wordpress-plugins/custom-login
+ * Version		: 2.1.5
+ * Author URI	: http://austinpassy.com
+ * Extensions	: http://extendd.com/plugins/tag/custom-login-extension/
+ */
+
+html {
+	background-color: #2c3e50;
+	}
+body.login {
+	background: transparent;
+	}
+#login form {
+	background-color: #18bc9c;
+	border: 5px solid #2c3e50;
+	
+	-webkit-border-radius: 24px;
+	-moz-border-radius: 24px;
+	-ms-border-radius: 24px;
+	-o-border-radius: 24px;
+	border-radius: 24px;
+	
+	-webkit-box-shadow: 5px 5px 10px #2c3e50;
+	-moz-box-shadow: 5px 5px 10px #2c3e50;
+	-ms-box-shadow: 5px 5px 10px #2c3e50;
+	-o-box-shadow: 5px 5px 10px #2c3e50;
+	box-shadow: 5px 5px 10px #2c3e50;
+	}
+#login h1 {
+	display: none;
+	}
+#loginform label {
+	color: #ffffff;
+	}
+.login #nav a, .login #backtoblog a {
+	color: #ffffff !important;
+	text-shadow: 0 1px 0 #2c3e50;
+	}
+.login #nav a:hover, .login #backtoblog a:hover {
+	color: #18bc9c !important;
+	text-shadow: 0 1px 0 #2c3e50;
+	}
+
+</style><script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-includes/js/jquery/jquery.query.js?ver=2.1.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxizeParams = {"_wpnonce":"e6bbb056f9","is_404":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/ajaxize/ajaxize_this.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/wp-simpleweather/jquery.simpleWeather.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/facebookall/assets/js/fball_connect.js?ver=1.0.0'></script>
+<meta name='robots' content='noindex,nofollow' />
+	</head>
+	<body class="login login-action-login wp-core-ui">
+	<div id="login">
+		<h1><a href="http://surfclubatuhm.surfied.com/" title="Get Surfied!">#surfied @surfclubatuhm</a></h1>
+	
+<form name="loginform" id="loginform" action="http://surfclubatuhm.surfied.com/login/" method="post">
+	<p>
+		<label for="user_login">Username<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+<div style="margin-bottom: 3px;"><b></b></div><div class="fball_ui">
+        <div class="fball_form" title="Facebook All"><span id="fball-facebook-login">
+        <a href="javascript:void(0);" title="Login using Facebook" onclick="FbAll.facebookLogin();" class="fball_login_facebook"><span>Login with Facebook</span></a></span></div>
+        <div id="fball_facebook_auth">
+          <input type="hidden" name="client_id" id="client_id" value="744796528870245"/>
+          <input type="hidden" name="redirect_uri" id="redirect_uri" value="http://surfclubatuhm.surfied.com"/>
+        </div>
+	    <input type="hidden" id="fball_login_form_uri" value=""/>
+        </div>	<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+		<input type="hidden" name="redirect_to" value="" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+			<a href="http://surfclubatuhm.surfied.com/login/?action=register">Register</a> |
+		<a href="http://surfclubatuhm.surfied.com/login/?action=lostpassword" title="Password Lost and Found">Lost your password?</a>
+</p>
+
+<script type="text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://surfclubatuhm.surfied.com/" title="Are you lost?">&larr; Back to #surfied @surfclubatuhm</a></p>
+	
+	</div>
+
+	
+	
+<link rel='stylesheet' id='facebookall-button-style-css'  href='http://surfclubatuhm.surfied.com/wp-content/plugins/facebookall/assets/css/fball_fbbutton.css?ver=3.6.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/rrf-scroll-to-top/js/jquery.scrollUp.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://surfclubatuhm.surfied.com/wp-content/plugins/rrf-scroll-to-top/js/active.js?ver=1.0'></script>
+	<div class="clear"></div>
+	</body>
+	</html>
+	
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+Database Caching using disk
+Object Caching 603/663 objects using disk
+
+ Served from: surfclubatuhm.surfied.com @ 2013-10-30 14:53:39 by W3 Total Cache -->

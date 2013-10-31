@@ -1,0 +1,6 @@
+•ÓqR<?php exit; ?>a:1:{s:7:"content";a:19:{s:10:"first_name";a:1:{i:0;s:5:"Chris";}s:9:"last_name";a:1:{i:0;s:9:"Giacobone";}s:8:"nickname";a:1:{i:0;s:15:"Chris-Giacobone";}s:11:"description";a:1:{i:0;s:129:"Im Chris. I scuba dive and hike too much. Im rescue diver in HAWAII!! and i get cray!
+Im a weird kid, but thts the way i like it.";}s:12:"rich_editing";a:1:{i:0;s:4:"true";}s:17:"comment_shortcuts";a:1:{i:0;s:5:"false";}s:11:"admin_color";a:1:{i:0;s:5:"fresh";}s:7:"use_ssl";a:1:{i:0;s:1:"0";}s:20:"show_admin_bar_front";a:1:{i:0;s:4:"true";}s:15:"wp_capabilities";a:1:{i:0;s:28:"a:1:{s:10:"subscriber";b:1;}";}s:13:"wp_user_level";a:1:{i:0;s:1:"0";}s:19:"facebookall_user_id";a:1:{i:0;s:10:"1247740749";}s:22:"facebookall_user_email";a:1:{i:0;s:22:"colts_pats19@yahoo.com";}s:26:"facebookall_user_thumbnail";a:1:{i:0;s:45:"https://graph.facebook.com/1247740749/picture";}s:13:"last_activity";a:1:{i:0;s:19:"2013-10-31 01:47:12";}s:14:"rtmedia_counts";a:1:{i:0;s:6:"a:0:{}";}s:11:"mycred_rank";a:1:{i:0;s:2:"34";}s:16:"bp_latest_update";a:1:{i:0;s:129:"a:2:{s:2:"id";i:37;s:7:"content";s:87:"Morning ride: Gunnar
+
+[bpfb_images]
+12_0.348642001383183936_g0578110.jpg
+[/bpfb_images]";}";}s:14:"mycred_default";a:1:{i:0;s:1:"5";}}}

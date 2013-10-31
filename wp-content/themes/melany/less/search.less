@@ -1,0 +1,81 @@
+//
+// Search
+// --------------------------------------------------
+
+// Search toggle
+//
+// Custom button for toggling the `.search-collapse`, powered by the collapse
+// JavaScript plugin.
+
+.search-toggle {
+  position: relative;
+  float: right;
+  margin-right: @navbar-padding-horizontal;
+  padding: 5px 10px;
+  .navbar-vertical-align(34px);
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-radius: @border-radius-base;
+
+  // Icon
+  .glyphicon-search {
+    width: 22px;
+  }
+  @media (min-width:@grid-float-breakpoint) and (max-width:@screen-md-max) {
+  	position:absolute;
+  	right:0;
+  	top:0;
+  }
+  @media (min-width: @screen-lg) {
+    display: none;
+  }
+}
+
+// Fix layout on desktop and large desktop
+@media (min-width:@screen-lg) {
+	.navbar-collapse:after {
+		clear:none;
+	}
+}
+
+// Navbar form
+//
+// Extension of the `.form-inline` with some extra flavor for optimum display in
+// our navbars.
+.search-collapse {
+	max-width:100%;
+
+	.search-form {
+		max-width:100%;
+		margin:0;
+		padding: 10px @navbar-padding-horizontal;
+		border-top:1px solid transparent;
+		@shadow: inset 0 1px 0 rgba(255,255,255,.1), 0 1px 0 rgba(255,255,255,.1);
+		.box-shadow(@shadow);
+
+		// Mixin behaviour for optimum display
+		.form-inline();
+
+		@media (min-width:@screen-lg) {
+			margin-top: ((@navbar-height - @input-height-base) / 2);
+		}
+
+		// Undo 100% width for pull classes
+		@media (min-width:@screen-lg) {
+			width:auto;
+			border:0;
+			margin-left:0;
+			margin-right:0;
+			padding-top:0;
+			padding-bottom:0;
+			.box-shadow(none);
+			.navbar-vertical-align(@input-height-base);
+		}
+	}
+	// Uncollapse the search
+	@media (min-width: @screen-lg) {
+		display:block;
+		float:right;
+		margin:0;
+	}
+}

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Profile Progression\n"
+"POT-Creation-Date: 2013-03-08 12:14+0100\n"
+"PO-Revision-Date: 2013-03-22 16:50+0400\n"
+"Last-Translator: RJ <romik.jan@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bppp-admin.php:81
+msgid "BuddyPress Profile Progression"
+msgstr "Прогресс профиля BuddyPress"
+
+#: ../bppp-admin.php:84
+msgid "Include Progression Bar"
+msgstr "Настройки отображения"
+
+#: ../bppp-admin.php:87
+msgid "Points Shares"
+msgstr "Шаги прогресса"
+
+#: ../bppp-admin.php:103
+msgid "When displaying a profile"
+msgstr "На странице профиля"
+
+#: ../bppp-admin.php:106
+msgid "When editing a profile"
+msgstr "На странице редактирования профиля"
+
+#: ../bppp-admin.php:109
+msgid "No auto embed"
+msgstr "Не отображать (вставить код вручную)"
+
+#: ../bppp-admin.php:112
+#, php-format
+msgid ""
+"Use function %s to display the profile progression block in your templates."
+msgstr ""
+"Используйте функцию %s в вашем шаблоне, чтобы отобразить блок прогресса "
+"профиля."
+
+#: ../bppp-admin.php:136
+#, php-format
+msgid "%1d points (%2d%% of total)"
+msgstr "%1d шаг (%2d%% от общего числа)"
+
+#: ../bppp-admin.php:137
+#, php-format
+msgid "Callback used : %1s"
+msgstr "Обработано процедурой : %1s"
+
+#: ../bppp-template.php:83
+msgid "My Profile Progression"
+msgstr "Прогресс моего профиля"
+
+#: ../bppp-template.php:86
+#, php-format
+msgid "%s's Profile Progression"
+msgstr "Прогресс профиля (%s)"
+
+#: ../bppp-template.php:103
+#, php-format
+msgid "Your Profile is %1d%% complete"
+msgstr "Мой профиль заполнен на %1d%%"
+
+#: ../bppp-template.php:106
+#, php-format
+msgid "%2s's Profile is %1d%% complete"
+msgstr "Профиль пользователя %2s заполнен на %1d%%"

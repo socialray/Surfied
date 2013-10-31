@@ -1,0 +1,59 @@
+# Translation of the WordPress plugin bp-show-friends by imath (twitter.com/imath).
+# Copyright (C) 2010 imath (twitter.com/imath)
+# This file is distributed under the same license as bp-my-home package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-show-friends 1.0\n"
+"Report-Msgid-Bugs-To: http://imath.owni.fr\n"
+"POT-Creation-Date: 2010-07-05 15:10+0000\n"
+"PO-Revision-Date: 2012-11-18 16:00+0100\n"
+"Last-Translator: imath <i-math@club.fr>\n"
+"Language-Team: imath\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. #-#-#-#-#  plugin.pot (bp-show-friends 1.1)  #-#-#-#-#
+#: bp-show-friends.php:33
+msgid ""
+"Show the friends of the loggedin user or of the displayed user if in the "
+"member area"
+msgstr ""
+"Muestra los amigos del usuario autenticado o del usuario activado si en la "
+"zona miembro"
+
+#: bp-show-friends.php:34
+msgid "Friends"
+msgstr "Amigos"
+
+#: bp-show-friends.php:55
+msgid "My Friends - <a href='%s'>All</a>"
+msgstr "Mi Amigos - <a href='%s'>Todos</a>"
+
+#: bp-show-friends.php:56
+msgid "%1$s&apos;s Friends - <a href=\"%2$s\">All</a>"
+msgstr "Amigos de %1$s - <a href=\"%2$s\">Todos</a>"
+
+#: bp-show-friends.php:60
+msgid "Recently Actives"
+msgstr "Recientes Activos"
+
+#: bp-show-friends.php:61
+msgid "Online Friends"
+msgstr "En linea"
+
+#: bp-show-friends.php:85
+msgid "Max Number of Avatars:"
+msgstr "Máximo número de Avatares:"
+
+#: bp-show-friends.php:114 bp-show-friends.php:156
+msgid "No friends!"
+msgstr "Sin amigos aún!"
+
+#: bp-show-friends.php:155
+msgid "No online friends!"
+msgstr "Ningún amigo en linea!"

@@ -1,0 +1,31 @@
+/* =Alignment
+----------------------------------------------- */
+
+.alignnone,
+a img.alignnone,
+.wp-caption.alignnone {
+	margin:@line-height-computed 0;
+	display:inline-block;
+}
+.alignleft,
+a img.alignleft,
+.wp-caption.alignleft {
+	display: inline;
+	float: left;
+	margin:@line-height-computed 1.5em @line-height-computed 0;
+}
+.alignright,
+a img.alignright,
+.wp-caption.alignright {
+	display: inline;
+	float: right;
+	margin:@line-height-computed 0 @line-height-computed 1.5em;
+}
+.aligncenter,
+div.aligncenter,
+a img.aligncenter,
+.wp-caption.aligncenter {
+	clear: both;
+	display: block;
+	margin: @line-height-computed auto;
+}
